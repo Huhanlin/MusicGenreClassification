@@ -1,0 +1,6 @@
+nnet3_128_20_best.h5	accuracy: 0.86
+mgcnn_baseline_128_20_02111236.h5	accuracy: 0.74
+mgcnn_nnet3_02121133.h5	accuracy: 0.84
+mgcnn_nnet3_02121133.h5	accuracy: 0.84
+mgcnn_nnet3_02121133.h5	accuracy: 0.84
+mgcnn_nnet3_02121133.h5	accuracy: 0.84
